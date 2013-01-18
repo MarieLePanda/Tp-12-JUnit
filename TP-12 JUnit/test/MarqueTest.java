@@ -123,7 +123,7 @@ public class MarqueTest {
 	@Test
 	public void testcaMarque() {
 		
-		//déclaration de variable
+		//déclaration de variable////
 		Marque marqueCaMarque;
 		Circuit circuit1, circuit2, circuit3;
 		Voiture voiture1, voiture2;
